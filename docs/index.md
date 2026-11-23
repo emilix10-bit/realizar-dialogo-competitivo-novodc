@@ -33,23 +33,24 @@ O diálogo competitivo é uma modalidade de licitação em que a Administração
 Você pode acessar as etapas específicas que quer consultar ou ver o manual completo, com todas as seções. Para isso, selecione o que quer ler no menu ao lado ou abaixo. Você também pode baixar ou imprimir cada uma dessas páginas ou o manual completo.
 
 * **Primeira Etapa – Criar a contratação:**
-  * [1. Criar a contratação no Novo DC](01-criar-contratacao.md)
+    * [1. Criar a contratação no Novo DC](01-criar-contratacao.md)
 
 * **Segunda Etapa – Divulgar a contratação:**
-  * [2. Preencher dados e divulgar a contratação](02-divulgar-contratacao.md)
+    * [2. Preencher dados e divulgar a contratação](02-divulgar-contratacao.md)
 
 * **Outras ações na contratação:**
-  * [3. Avisos, impugnações e esclarecimentos](03-avisos-impugnacoes-esclarecimentos.md)
-  * [4. Anulação e revogação de item](04-anulacao-e-revogacao.md)
-  * [5. Suspensão e reabertura da contratação](05-suspensao-e-reabertura.md)
+    * [3. Avisos, impugnações e esclarecimentos](03-avisos-impugnacoes-esclarecimentos.md)
+    * [4. Anulação e revogação de item](04-anulacao-e-revogacao.md)
+    * [5. Suspensão e reabertura da contratação](05-suspensao-e-reabertura.md)
 
 * **Página única:**
-  * [Todo o material em uma tela](manual-completo.md)
+    * [Todo o material em uma tela](manual-completo.md)
 
 <div style="text-align: right; margin: 20px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
     🖨️ Imprimir esta página
   </button>
 </div>
+
 
 
