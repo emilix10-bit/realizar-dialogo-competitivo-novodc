@@ -18,7 +18,7 @@
 
 ![Tela 06](Imagens/tela06.png)
 
-**Passo 7:** Na aba **Dados Básicos da Contratação**, preencha o número do processo e o número de controle interno da UASG. No **Tipo de contratação**, escolha a modalidade de licitação “Diálogo Competitivo – Fase de pré-seleção”.
+**Passo 7:** Na aba **Dados Básicos da Contratação**, preencha o número do processo e o número de controle interno da Uasg. No **Tipo de contratação**, escolha a modalidade de licitação “Diálogo Competitivo – Fase de pré-seleção”.
 
 ![Tela 07](Imagens/tela07.png)
 
