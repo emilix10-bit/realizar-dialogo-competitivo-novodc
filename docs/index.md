@@ -24,7 +24,7 @@ O diálogo competitivo é uma modalidade de licitação em que a Administração
 * Se a contratação já estiver prevista no **Planejamento e Gerenciamento das Contratações (PGC)**, vá direto para a **Segunda Etapa** ([2. Preencher dados e divulgar a contratação](02-divulgar-contratacao.md)).
 
 !!! note "Nota"
-    **Nota:** Este manual contempla os procedimentos da **Fase I – Pré-seleção** e será expandido futuramente com o lançamento das Fases II e III.
+    Este manual contempla os procedimentos da **Fase I – Pré-seleção** e será expandido futuramente com o lançamento das Fases II e III.
 
 ---
 
@@ -51,6 +51,7 @@ Você pode acessar as etapas específicas que quer consultar ou ver o manual com
     🖨️ Imprimir esta página
   </button>
 </div>
+
 
 
 
