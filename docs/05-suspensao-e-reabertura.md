@@ -55,7 +55,7 @@ A suspensão foi cancelada e a reabertura foi agendada.
 ![Tela 65](Imagens/tela65.png)
 
 !!! note "Nota"
-    **Nota:** Este manual será expandido com o lançamento das Fases II e III.
+    Este manual será expandido com o lançamento das Fases II e III do processo de implantação do diálogo competitivo no sistema Compras.gov.br.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
