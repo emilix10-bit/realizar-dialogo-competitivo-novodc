@@ -43,7 +43,7 @@ O item será anulado.
 ![Tela 45](Imagens/tela45.png)
 
 !!! warning "Atenção"
-    **Atenção:** Por ser uma contratação de único item, o procedimento de anulação do item resultará na anulação do processo de contratação.
+    Por ser uma contratação de único item, o procedimento de anulação do item resultará na anulação do processo de contratação.
 
 ---
 
@@ -102,7 +102,7 @@ O item será revogado.
 ![Tela 53](Imagens/tela53.png)
 
 !!! warning "Atenção"
-    **Atenção:** Por ser uma contratação de único item, o procedimento de revogação do item resultará na revogação do processo de contratação.
+    Por ser uma contratação de único item, o procedimento de revogação do item resultará na revogação do processo de contratação.
 
 ---
 
