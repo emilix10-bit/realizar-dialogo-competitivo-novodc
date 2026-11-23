@@ -23,7 +23,7 @@
 ![Tela 07](Imagens/tela07.png)
 
 !!! warning "Atenção"
-    **Atenção:** O número de controle interno da UASG permite que cada órgão controle seus processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é facultativo.
+    O número de controle interno da UASG permite que cada órgão controle seus processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é facultativo.
 
 **Passo 8:** Para definir o **Fundamento legal da contratação**, clique no ícone de lápis.
 
@@ -118,10 +118,10 @@ Navegue pela lista de fundamentos legais disponíveis. Quando encontrar a opçã
 ![Tela 26](Imagens/tela26.png)
 
 !!! warning "Atenção"
-    **Atenção:** Entre os responsáveis é obrigatório relacionar o servidor que realizará a publicação na Imprensa Nacional. Essa pessoa deverá ser cadastrada para isso na Imprensa Nacional.
+    Entre os responsáveis é obrigatório relacionar o servidor que realizará a publicação na Imprensa Nacional. Essa pessoa deverá ser cadastrada para isso na Imprensa Nacional.
 
 !!! warning "Atenção"
-    **Atenção:** Devem ser inseridos, no mínimo, os responsáveis abaixo:
+    Devem ser inseridos, no mínimo, os responsáveis abaixo:
 
     * Dois membros de comissão de contratação;
     * Presidente da comissão.
