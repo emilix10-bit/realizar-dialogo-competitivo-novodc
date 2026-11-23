@@ -1,233 +1,832 @@
-<div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin: 10px 0;">
-  <span style="font-size: 14px; color: #555; font-weight: bold;">Tamanho do texto:</span>
-  <button onclick="diminuirFonte()" title="Diminuir texto" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A-</button>
-  <button onclick="resetarFonte()" title="Tamanho normal" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A</button>
-  <button onclick="aumentarFonte()" title="Aumentar texto" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A+</button>
-  
-  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2); margin-left: 10px;">
-    🖨️ Imprimir ou baixar esta página
-  </button>
-</div>
+# 1. CRIAR A CONTRATAÇÃO NO NOVO DC
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: FORNECEDORES</p>
+## Fase I – Pré-seleção | Primeira Etapa: Criar a contratação
 
-# Como participar de uma convocação de remanescentes no Compras.gov.br
+Siga os passos abaixo caso precise iniciar um processo de contratação na modalidade Diálogo Competitivo diretamente no **Novo Divulgação de Compras (Novo DC)**. Se a contratação já estiver prevista no Planejamento e Gerenciamento das Contratações (PGC), avance diretamente para a **Segunda Etapa**.
 
-Utilize o sistema Compras.gov.br para participar de uma convocação de remanescentes em processos de contratação. Após a homologação de um processo do qual você participou e não venceu, é possível participar de convocações de remanescentes iniciadas pelo órgão contratante.
+**Passo 1:** Acesse o [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br) e clique em “Acesso ao Sistema”.
 
-<br>
+![Tela 01](Imagens/tela01.png)
 
-# ACESSANDO UMA CONTRATAÇÃO HOMOLOGADA
+**Passo 2:** Escolha o perfil **Governo** e clique em “Entrar com Gov.br”.
 
-**Passo 1:** Acesse o [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br) e clique em “Acesso ao Sistema”. 
+![Tela 02](Imagens/tela02.png)
 
-![Tela 01](Imagens/tela01-acesso-ao-sistema.png)
+**Passo 3:** Na área de trabalho do usuário Governo, clique em “Novo Divulgação de Compras”.
 
-**Passo 2:** Escolha o perfil **Fornecedor Nacional** e clique em “Entrar com Gov.br”.
+![Tela 03](Imagens/tela03.png)
 
-![Tela 02](Imagens/tela02-acesso-fornecedor-nacional.png)
+**Passo 4:** Clique em “+Criar”.
 
-Ou selecione o perfil **Fornecedor Estrangeiro** e utilize suas credenciais para acessar o sistema.
+![Tela 04](Imagens/tela04.png)
 
-![Tela 03](Imagens/tela03-acesso-fornecedor-estrangeiro.png)
+**Passo 5:** Preencha todas as informações relacionadas ao processo e clique em “Concluir”.
 
-**Passo 3:** No menu “Compras”, acesse a opção “Licitação e dispensas (novo)”.
-
-![Tela 04](Imagens/tela04-acesso-a-area-do-fornecedor.png)
-
-**Passo 4:** Você poderá acessar uma convocação de remanescentes nas notificações do sistema (na lateral direita) (tela 05)
-
-![Tela 05](Imagens/tela05-acesso-pela-area-de-notificacoes.png)
-
-ou usando a pesquisa na aba “Todas as Compras”, procurando pelo número da contratação desejada.
-
-![Tela 06](Imagens/tela06-acesso-pela-area-de-pesquisa.png)
-
-**Passo 5:** Acesse a contratação clicando na opção “Acompanhar compra”.
-
-![Tela 07](Imagens/tela07-acompanhar-contratacao.png)
-
-**Passo 6:** Acesse a linha do tempo da contratação em **Remanescentes**.
-
-![Tela 08](Imagens/tela08-linha-do-tempo-remanescentes.png)
+![Tela 05](Imagens/tela05.png)
 
 <br>
 
-# MANIFESTANDO INTERESSE EM PARTICIPAR DE UMA CONVOCAÇÃO DE REMANESCENTES
+# 2. PREENCHER DADOS E DIVULGAR A CONTRATAÇÃO
 
-A convocação de remanescentes acontecerá em duas etapas sucessivas:
+## Fase I – Pré-seleção | Segunda Etapa: Divulgar a contratação
 
-* Aceite, para assumir o contrato pelo mesmo preço do licitante vencedor do processo licitatório;
-* Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de aceite para assumir o contrato após negociação de valor, incluindo a possibilidade de manter a proposta original do licitante interessado.
+### Como preencher dados da contratação
 
-**Passo 1:** Para formalizar sua intenção de participar em uma convocação de remanescentes, selecione o item em que deseja atuar e clique em “Operar item”.
+**Passo 6:** Encontre a contratação desejada na aba **Contratações Minhas Uasg**. Em seguida, clique em “Editar”.
 
-![Tela 09](./Imagens/tela09-operar-item.png)
+![Tela 06](Imagens/tela06.png)
 
-**Passo 2:** Leia as informações sobre o item, pois os valores podem ser atualizados.
+**Passo 7:** Na aba **Dados Básicos da Contratação**, preencha o número do processo e o número de controle interno da UASG. No **Tipo de contratação**, escolha a modalidade de licitação “Diálogo Competitivo – Fase de pré-seleção”.
 
-![Tela 10](./Imagens/tela10-informacoes-do-item.png)
-
-**Passo 3:** No campo “Proposta”, será solicitada a manifestação interesse em participar da convocação de remanescentes na condição atual.
-
-![Tela 11](./Imagens/tela11-aceitar-preco-do-vencedor.png)
-
-<br>
-
-# CONVOCAÇÃO DE CONTRATAÇÃO DE REMANESCENTES PELAS CONDIÇÕES DO VENCEDOR
-
-O processo de convocação de remanescentes começa pela oportunidade de assumir o contrato nas mesmas condições do fornecedor. Para manifestar se aceita ou assumir o contrato pelas condições do vencedor, siga as instruções abaixo:
-
-**Passo 01:** No cabeçalho do campo proposta, será indicado o prazo para manifestação de interesse de fornecer pelas condições do vencedor. Revise as informações sobre as condições da contratação e selecione a opção desejada.
-
-![Tela 11](./Imagens/tela11-aceitar-preco-do-vencedor.png)
-
-Confirme sua opção
-
-![Tela 12](./Imagens/tela12-confirmar-opcao.png)
-
-**Passo 02:** Durante o prazo de manifestação indicado, você poderá alterar sua opção. Selecione a nova opção.
-
-![Tela 13](./Imagens/tela13-alterar-opcao.png)
-
-Confirme.
-
-![Tela 14](./Imagens/tela14-confirmar-alteracao.png)
-
-Quando o prazo do processo finalizar para todos os fornecedores que participaram do processo se manifestarem, o agente de contratação partirá para a etapa de habilitação e julgamento dessa convocação de remanescentes. 
-
-**Passo 03:** Acesse o item em convocação de remanescentes selecionando a opção “Operar item”.
-
-![Tela 15](./Imagens/tela15-solicitacao-de-envio-de-documentacao.png)
-
-Para visualizar quais documentos foram solicitados, acesse a seção “Anexos”.
-
-![Tela 16](./Imagens/tela16-upload-de-anexo.png)
-
-Leia a justificativa e o conteúdo da solicitação e encaminhe os documentos necessários. Para isso, leia os avisos de sistema e declare ciência.
-
-![Tela 17](./Imagens/tela17-encerrar-envio-de-anexo.png)
-
-Anexe todos os arquivos clicando no local indicado ou arrastando os arquivos para essa área. Finalize o carregamento de todos os documentos e clique em “Encerrar envio de anexos”.
-
-![Tela 18](./Imagens/tela18-encerrar-envios-de-anexos.png)
-
-**Passo 04:** Para visualizar e responder as mensagens encaminhadas pelo agente de contratação responsável, selecione a seção “Chat”.
-
-![Tela 19](./Imagens/tela19-chat.png)
-
-Essa área serve para comunicação entre as partes, caso haja dúvidas sobre o processo. Preencha a mensagem desejada e clique em “Enviar” para encaminhá-la ao agente de contratação.
-
-![Tela 20](./Imagens/tela20-mensagens.png)
-
-**Passo 05:** Caso a documentação da proposta de fornecimento não atenda aos requisitos de edital, o fornecedor será desclassificado. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Desclassificado”.
-
-![Tela 21](./Imagens/tela21-fornecedor-desclassificado.png)
-
-O fornecedor não estará apto a participar novamente desta convocação de remanescente enquanto o status de “Desclassificado” persistir.
+![Tela 07](Imagens/tela07.png)
 
 !!! warning "Atenção"
-    Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
+    **Atenção:** O número de controle interno da UASG permite que cada órgão controle seus processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é facultativo.
 
+**Passo 8:** Para definir o **Fundamento legal da contratação**, clique no ícone de lápis.
 
-**Passo 06:** Caso a documentação de habilitação não atenda aos requisitos de edital, o fornecedor será inabilitado. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Inabilitado”.
+![Tela 08](Imagens/tela08.png)
 
-![Tela 22](./Imagens/tela22-fornecedor-inabilitado.png)
+Navegue pela lista de fundamentos legais disponíveis. Quando encontrar a opção adequada, clique sobre o texto e, em seguida, clique em “Salvar”.
 
-O fornecedor não estará apto a participar novamente desta convocação de remanescente enquanto o status de “Inabilitado” persistir.
+![Tela 09](Imagens/tela09.png)
+
+**Passo 9:** Caso sua contratação seja internacional, indique isso no campo correspondente. Edite ou preencha os demais campos conforme a necessidade.
+
+![Tela 10](Imagens/tela10.png)
+
+**Passo 10:** Na aba **Dados adicionais da contratação**, preencha os dados do empenho para a publicação no Diário Oficial da União. Se necessário, consulte os dados de seu órgão para preencher corretamente as informações.
+
+![Tela 11](Imagens/tela11.png)
+
+**Passo 11:** Caso o órgão ou entidade tenha processo eletrônico, selecione “Sim” e informe o endereço do processo eletrônico referente à contratação. Selecione “Não” se o processo não for eletrônico e preencha o campo de justificativa.
+
+**Passo 12:** Preencha o **Tipo de recurso**, que poderá ser “Internacional”, “Federal”, “Distrital”, “Estadual” ou “Municipal”.
+
+![Tela 12](Imagens/tela12.png)
+
+**Passo 13:** Informe a **data início** e a **data fim** de recebimento de requerimentos de participação. Indique também se haverá prêmio ou remuneração.
+
+---
+
+### Inclusão de itens na contratação
+
+**Passo 14:** Na aba **Itens/Grupos**, clique em “+Adicionar” para incluir o item da contratação diretamente do Catálogo integrado ao Novo DC.
+
+![Tela 13](Imagens/tela13.png)
+
+**Passo 15:** Pesquise pelo item “Diálogo Competitivo – fase I” e clique em adicionar.
+
+![Tela 14](Imagens/tela14.png)
+
+**Passo 16:** Incluir o valor unitário é opcional. Para isso, informe se é necessário e clique em “Salvar”.
+
+![Tela 15](Imagens/tela15.png)
+
+**Passo 17:** Depois de inserir o item, clique no carrinho localizado no canto superior direito. Selecione a opção “Adicionar itens no DC”. Confirme a inclusão do item no carrinho.
+
+![Tela 16](Imagens/tela16.png)
+
+**Passo 18:** Para prosseguir com a configuração do item de sua licitação, clique em “Expandir”.
+
+![Tela 17](Imagens/tela17.png)
+
+**Passo 19:** Preencha os campos adicionais conforme necessário.
+
+![Tela 18](Imagens/tela18.png)
+
+---
+
+### Inclusão de anexos e artefatos vinculados
+
+**Passo 20:** Na aba **Anexos**, clique em “+Vincular” para vincular artefatos digitais da contratação ou documentos complementares.
+
+![Tela 19](Imagens/tela19.png)
+
+**Passo 21:** Selecione o tipo de artefato que deseja pesquisar.
+
+![Tela 20](Imagens/tela20.png)
+
+**Passo 22:** Selecione o documento e clique em “Vincular”.
+
+![Tela 21](Imagens/tela21.png)
+
+**Passo 23:** Para anexar outros documentos, clique em “+Anexar”.
+
+![Tela 22](Imagens/tela22.png)
+
+**Passo 24:** Selecione o tipo de anexo que deseja pesquisar.
+
+![Tela 23](Imagens/tela23.png)
+
+**Passo 25:** Selecione o arquivo e clique em “Anexar”.
+
+![Tela 24](Imagens/tela24.png)
+
+---
+
+### Inclusão de responsáveis pela contratação
+
+**Passo 26:** Para adicionar informações dos responsáveis pela contratação, clique em “+Adicionar” na aba **Responsáveis**.
+
+![Tela 25](Imagens/tela25.png)
+
+**Passo 27:** Insira o CPF e o e-mail do responsável, selecione seu **Cargo/Função** e clique em “Adicionar”.
+
+![Tela 26](Imagens/tela26.png)
 
 !!! warning "Atenção"
-    Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
+    **Atenção:** Entre os responsáveis é obrigatório relacionar o servidor que realizará a publicação na Imprensa Nacional. Essa pessoa deverá ser cadastrada para isso na Imprensa Nacional.
 
-**Passo 07:** Caso toda a documentação apresentada esteja de acordo com as exigências de edital, o fornecedor será aceito para fornecimento de remanescente contratual. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Aceito e habilitado”.
+!!! warning "Atenção"
+    **Atenção:** Devem ser inseridos, no mínimo, os responsáveis abaixo:
 
-![Tela 23](./Imagens/tela23-fornecedor-aceito-e-habilitado.png)
+    * Dois membros de comissão de contratação;
+    * Presidente da comissão.
 
-**Passo 08:** Para a formalizar o processo, o agente de contratação encerrará a convocação de remanescentes. Assim, ficará na tela a indicação “Situação: Encerrada”.
+**Passo 28:** Depois de preencher essas informações, clique em “Concluir” para que a contratação seja encaminhada para publicação.
 
-![Tela 24](./Imagens/tela24-convocacao-encerrada.png)
+![Tela 27](Imagens/tela27.png)
+
+**Passo 29:** Para visualizar a prévia da matéria do Diário Oficial da União, clique em “Visualizar prévia”.
+
+![Tela 28](Imagens/tela28.png)
+
+Verifique os dados apresentados.
+
+![Tela 29](Imagens/tela29.png)
+
+**Passo 30:** Para divulgar o certame, clique em “Divulgar a contratação” na página de **Resumo da Contratação**.
+
+![Tela 30](Imagens/tela30.png)
+
+A contratação será divulgada no Portal Nacional de Contratações Públicas (PNCP).
+
+![Tela 31](Imagens/tela31.png)
+
+Sua contratação poderá receber requerimentos de participação conforme as datas especificadas na aba **Dados básicos da contratação**.
 
 <br>
 
-# CONVOCAÇÃO POR NEGOCIAÇÃO DE PREÇOS
+# 3. AVISOS, IMPUGNAÇÕES E ESCLARECIMENTOS
 
-Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de aceite para assumir o contrato após negociação de valor, incluindo a possibilidade de manter a proposta original do licitante interessado.
+Após a divulgação da contratação, é possível registrar avisos, impugnações e pedidos de esclarecimentos diretamente pelo sistema.
 
-**Passo 01:** Acesse a contratação com status “Em convocação para negociação”, selecionando o ícone “Operar item”. 
+## Avisos
 
-![Tela 25](./Imagens/tela25-negociacao-de-precos.png)
+**Passo 01:** Para publicar avisos sobre o evento de contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
 
-**Passo 02:** No cabeçalho do campo proposta, será indicado o prazo para manifestar interesse para negociar. Revise as informações sobre as condições da contratação e selecione a opção desejada.
+![Tela 32](Imagens/tela32.png)
 
-![Tela 27](./Imagens/tela27-aceitar-negociacao.png)
+**Passo 02:** Selecione a opção “Incluir avisos, impugnações e esclarecimentos”.
 
-Confirme sua opção.
+![Tela 33](Imagens/tela33.png)
 
-![Tela 28](./Imagens/tela28-confirmar-aceite.png)
+**Passo 03:** Na aba **Avisos**, clique em “Incluir Aviso”.
 
-**Passo 03:** Durante o prazo de manifestação indicado, você poderá alterar sua opção. Selecione a nova opção
+![Tela 34](Imagens/tela34.png)
 
-![Tela 29](./Imagens/tela29-alterar-opcao.png)
+**Passo 04:** Preencha o campo destacado na imagem abaixo e clique em **Confirmar**.
 
-E confirme a opção.
-
-![Tela 30](./Imagens/tela30-confirmar-alteracao.png)
-
-**Passo 04:** Depois que terminar o prazo para manifestação de todos os fornecedores que participaram do processo, o agente de contratação fará a negociação com o fornecedor mais bem classificado no processo. 
-
-Retorne ao item em convocação acessando a opção “Operar item”.
-
-![Tela 31](./Imagens/tela31-negociacao-iniciada.png)
-
-Acesse a seção “Proposta” para visualizar os detalhes da negociação.
-
-![Tela 32](./Imagens/tela32-negociacao-de-preco.png)
-
-O valor proposto pela administração aparecerá indicado no campo “Valor sugerido”. Você poderá “Desistir de participar pelo valor negociado”, “Confirmar o valor negociado”, ou fazer uma contraproposta.
-
-**Passo 05:** Caso não deseje prosseguir no processo, seleciona “Desistir de participar pelo valor negociado”.
-
-![Tela 33](./Imagens/tela33-opcoes-de-acao.png)
-
-Preencha o campo de justificativa e confirme.
-
-![Tela 34](./Imagens/tela34-desistir-da-negociacao.png)
+![Tela 35](Imagens/tela35.png)
 
 !!! warning "Atenção"
-    Essa opção não poderá ser desfeita por você, apenas pelo agente de contratação/pregoeiro
+    **Atenção:** Avisos não podem ser excluídos.
 
-**Passo 06:** Caso deseje aceitar o valor proposto pela Administração, preencha o campo “Valor negociado (unitário)” com o valor proposto pelo agente de contratação/pregoeiro e confirme a opção.
+---
 
-![Tela 35](./Imagens/tela35-aceitar-preco-da-adm.png)
+## Impugnações
 
-**Passo 07:** Caso deseje fazer uma contraproposta, preencha o campo “Valor negociado (unitário)” com o novo valor proposto e confirma e opção.
+**Passo 01:** Para publicar impugnações relativas ao evento de contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
 
-![Tela 36](./Imagens/tela36-contraproposta.png)
+![Tela 32](Imagens/tela32.png)
 
-O agente de contratação poderá aceitar sua contraproposta ou iniciar uma nova negociação. Repita esse processo até que cheguem a uma negociação final.
+**Passo 02:** Selecione a opção “Incluir avisos, impugnações e esclarecimentos”.
 
-![Tela 37](./Imagens/tela37-contraproposta-enviada.png)
+![Tela 33](Imagens/tela33.png)
+
+**Passo 03:** Na aba **Impugnações**, clique em “Incluir impugnação”.
+
+![Tela 36](Imagens/tela36.png)
+
+**Passo 04:** Preencha os campos destacados na imagem abaixo e clique em **Confirmar**.
+
+![Tela 37](Imagens/tela37.png)
+
+!!! warning "Atenção"
+    **Atenção:** Impugnações não podem ser excluídas.
+
+---
+
+## Esclarecimentos
+
+**Passo 01:** Para publicar pedidos de esclarecimentos sobre a contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
+
+![Tela 32](Imagens/tela32.png)
+
+**Passo 02:** Selecione a opção “Incluir avisos, impugnações e esclarecimentos”.
+
+![Tela 33](Imagens/tela33.png)
+
+**Passo 03:** Na aba **Esclarecimentos**, clique em “Incluir esclarecimento”.
+
+![Tela 38](Imagens/tela38.png)
+
+**Passo 04:** Preencha o campo destacado na imagem abaixo e clique em **Confirmar**.
+
+![Tela 39](Imagens/tela39.png)
+
+!!! warning "Atenção"
+    **Atenção:** Esclarecimentos não podem ser excluídos.
+
+<br>
+
+# 4. ANULAÇÃO E REVOGAÇÃO DE ITEM
+
+Nesta seção, você confere como realizar a anulação ou a revogação do item da contratação, bem como os procedimentos para cancelar essas ações quando necessário.
+
+## Anular item
+
+**Passo 01:** Para anular o item da contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
+
+![Tela 32](Imagens/tela32.png)
+
+**Passo 02:** Selecione a opção “Anular item”.
+
+![Tela 40](Imagens/tela40.png)
+
+**Passo 03:** Na tela de anular ou revogar itens, localize o item da contratação
+
+![Tela 41](Imagens/tela41.png)
+
+e clique no botão “Anular/revogar”.
+
+![Tela 42](Imagens/tela42.png)
+
+**Passo 04:** Escolha a opção “Anulação de item”.
+
+![Tela 43](Imagens/tela43.png)
+
+**Passo 05:** Preencha a justificativa e confirme a opção.
+
+![Tela 44](Imagens/tela44.png)
+
+O item será anulado.
+
+![Tela 45](Imagens/tela45.png)
+
+!!! warning "Atenção"
+    **Atenção:** Por ser uma contratação de único item, o procedimento de anulação do item resultará na anulação do processo de contratação.
+
+---
+
+## Cancelamento da anulação
+
+**Passo 01:** Para cancelar a anulação do item, localize a contratação na **Área de Trabalho do usuário Governo** e clique sobre “Cancelar anulação de item”.
+
+![Tela 46](Imagens/tela46.png)
+
+**Passo 02:** Na tela de anular ou revogar itens, localize o item da contratação
+
+![Tela 47](Imagens/tela47.png)
+
+e clique em “Cancelar anulação”.
+
+![Tela 48](Imagens/tela48.png)
+
+**Passo 03:** Preencha as informações destacadas na imagem abaixo e confirme.
+
+![Tela 49](Imagens/tela49.png)
+
+A anulação do item será cancelada.
+
+![Tela 50](Imagens/tela50.png)
+
+---
+
+## Revogar item
+
+**Passo 01:** Para revogar o item, localize a contratação na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
+
+![Tela 32](Imagens/tela32.png)
+
+**Passo 02:** Selecione a opção “Revogar item”.
+
+![Tela 40](Imagens/tela40.png)
+
+**Passo 03:** Na tela de anular ou revogar itens, localize o item da contratação
+
+![Tela 41](Imagens/tela41.png)
+
+e clique no botão “Anular/revogar”.
+
+![Tela 42](Imagens/tela42.png)
+
+**Passo 04:** Selecione a opção “Revogação de item”.
+
+![Tela 43](Imagens/tela43.png)
+
+**Passo 05:** Preencha a justificativa e confirme a opção.
+
+![Tela 52](Imagens/tela52.png)
+
+O item será revogado.
+
+![Tela 53](Imagens/tela53.png)
+
+!!! warning "Atenção"
+    **Atenção:** Por ser uma contratação de único item, o procedimento de revogação do item resultará na revogação do processo de contratação.
+
+---
+
+## Cancelamento de revogação
+
+**Passo 01:** Para cancelar a revogação do item, localize sua contratação na **Área de Trabalho do usuário Governo** e clique sobre “Cancelar revogação de item”.
+
+![Tela 54](Imagens/tela54.png)
+
+**Passo 02:** Na tela de anular ou revogar itens, localize o item da contratação
+
+![Tela 47](Imagens/tela47.png)
+
+e acione o botão “Cancelar revogação”.
+
+![Tela 55](Imagens/tela55.png)
+
+**Passo 03:** Preencha as informações destacadas na imagem abaixo e confirme.
+
+![Tela 56](Imagens/tela56.png)
+
+**Passo 04:** A revogação do item será cancelada.
+
+![Tela 57](Imagens/tela57.png)
+
+<br>
+
+# 5. SUSPENSÃO E REABERTURA DA CONTRATAÇÃO
+
+Nesta seção, você confere como suspender uma contratação divulgada e, posteriormente, cancelar a suspensão para agendar sua reabertura.
+
+## Suspender contratação
+
+**Passo 01:** Para suspender a contratação, localize sua contratação na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
+
+![Tela 32](Imagens/tela32.png)
+
+**Passo 02:** Selecione a opção “Suspender contratação”.
+
+![Tela 58](Imagens/tela58.png)
+
+**Passo 03:** Você será redirecionado para a página inicial do **Novo Divulgação de Compras**. Na contratação desejada, clique no menu lateral e selecione a opção “Suspender”.
+
+![Tela 59](Imagens/tela59.png)
+
+**Passo 04:** Preencha o campo de justificativa e confirme.
+
+![Tela 60](Imagens/tela60.png)
+
+A contratação foi suspensa.
+
+![Tela 61](Imagens/tela61.png)
+
+---
+
+## Cancelar suspensão e reabrir contratação
+
+**Passo 01:** Para cancelar a suspensão da contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre “Reabrir contratação”.
+
+![Tela 62](Imagens/tela62.png)
+
+**Passo 02:** Você será redirecionado para a página inicial do **Novo Divulgação de Compras**, onde há uma lista de contratações. Ao lado da contratação desejada, clique no menu lateral e selecione a opção “Cancelar suspensão”.
+
+![Tela 63](Imagens/tela63.png)
+
+**Passo 03:** Preencha as novas datas do evento de contratação, a justificativa para reabertura e confirme.
+
+![Tela 64](Imagens/tela64.png)
+
+A suspensão foi cancelada e a reabertura foi agendada.
+
+![Tela 65](Imagens/tela65.png)
 
 !!! note "Nota"
-    Para envio de documentos solicitados para habilitação e julgamento, siga o passo 3 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
+    **Nota:** Este manual será expandido com o lançamento das Fases II e III.
 
-    Para envio de mensagens, siga o passo 4 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
+<br>
 
-    Caso o fornecedor seja desclassificado, leia as informações constantes no passo 5 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
+# 1. CRIAR A CONTRATAÇÃO NO NOVO DC
 
-    Caso o fornecedor seja inabilitado, leia as informações constantes no passo 6 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
+## Fase I – Pré-seleção | Primeira Etapa: Criar a contratação
 
+Siga os passos abaixo caso precise iniciar um processo de contratação na modalidade Diálogo Competitivo diretamente no **Novo Divulgação de Compras (Novo DC)**. Se a contratação já estiver prevista no Planejamento e Gerenciamento das Contratações (PGC), avance diretamente para a **Segunda Etapa**.
 
-**Passo 08:** Caso toda a documentação apresentada esteja de acordo com as exigências de edital, o fornecedor será aceito para fornecimento de remanescente contratual. Com isso, ficará na tela a indicação “Classificação na convocação de remanescente: Aceito e habilitado”.
+**Passo 1:** Acesse o [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br) e clique em “Acesso ao Sistema”.
 
-![Tela 38](./Imagens/tela38-aceito-e-habilitado.png)
+![Tela 01](Imagens/tela01.png)
 
-**Passo 09:** Para a formalização do processo, o agente de contratação deve encerrar a convocação de remanescentes. Com isso, ficará na tela a indicação “Situação: Encerrada”.
+**Passo 2:** Escolha o perfil **Governo** e clique em “Entrar com Gov.br”.
 
-![Tela 39](./Imagens/tela39-remanescente-encerrado.png)
+![Tela 02](Imagens/tela02.png)
 
-<div style="text-align: right; margin: 10px 0;">
-  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-    🖨️ Imprimir ou baixar esta página
-  </button>
-</div>
+**Passo 3:** Na área de trabalho do usuário Governo, clique em “Novo Divulgação de Compras”.
+
+![Tela 03](Imagens/tela03.png)
+
+**Passo 4:** Clique em “+Criar”.
+
+![Tela 04](Imagens/tela04.png)
+
+**Passo 5:** Preencha todas as informações relacionadas ao processo e clique em “Concluir”.
+
+![Tela 05](Imagens/tela05.png)
+
+<br>
+
+# 2. PREENCHER DADOS E DIVULGAR A CONTRATAÇÃO
+
+## Fase I – Pré-seleção | Segunda Etapa: Divulgar a contratação
+
+### Como preencher dados da contratação
+
+**Passo 6:** Encontre a contratação desejada na aba **Contratações Minhas Uasg**. Em seguida, clique em “Editar”.
+
+![Tela 06](Imagens/tela06.png)
+
+**Passo 7:** Na aba **Dados Básicos da Contratação**, preencha o número do processo e o número de controle interno da UASG. No **Tipo de contratação**, escolha a modalidade de licitação “Diálogo Competitivo – Fase de pré-seleção”.
+
+![Tela 07](Imagens/tela07.png)
+
+!!! warning "Atenção"
+    **Atenção:** O número de controle interno da UASG permite que cada órgão controle seus processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é facultativo.
+
+**Passo 8:** Para definir o **Fundamento legal da contratação**, clique no ícone de lápis.
+
+![Tela 08](Imagens/tela08.png)
+
+Navegue pela lista de fundamentos legais disponíveis. Quando encontrar a opção adequada, clique sobre o texto e, em seguida, clique em “Salvar”.
+
+![Tela 09](Imagens/tela09.png)
+
+**Passo 9:** Caso sua contratação seja internacional, indique isso no campo correspondente. Edite ou preencha os demais campos conforme a necessidade.
+
+![Tela 10](Imagens/tela10.png)
+
+**Passo 10:** Na aba **Dados adicionais da contratação**, preencha os dados do empenho para a publicação no Diário Oficial da União. Se necessário, consulte os dados de seu órgão para preencher corretamente as informações.
+
+![Tela 11](Imagens/tela11.png)
+
+**Passo 11:** Caso o órgão ou entidade tenha processo eletrônico, selecione “Sim” e informe o endereço do processo eletrônico referente à contratação. Selecione “Não” se o processo não for eletrônico e preencha o campo de justificativa.
+
+**Passo 12:** Preencha o **Tipo de recurso**, que poderá ser “Internacional”, “Federal”, “Distrital”, “Estadual” ou “Municipal”.
+
+![Tela 12](Imagens/tela12.png)
+
+**Passo 13:** Informe a **data início** e a **data fim** de recebimento de requerimentos de participação. Indique também se haverá prêmio ou remuneração.
+
+---
+
+### Inclusão de itens na contratação
+
+**Passo 14:** Na aba **Itens/Grupos**, clique em “+Adicionar” para incluir o item da contratação diretamente do Catálogo integrado ao Novo DC.
+
+![Tela 13](Imagens/tela13.png)
+
+**Passo 15:** Pesquise pelo item “Diálogo Competitivo – fase I” e clique em adicionar.
+
+![Tela 14](Imagens/tela14.png)
+
+**Passo 16:** Incluir o valor unitário é opcional. Para isso, informe se é necessário e clique em “Salvar”.
+
+![Tela 15](Imagens/tela15.png)
+
+**Passo 17:** Depois de inserir o item, clique no carrinho localizado no canto superior direito. Selecione a opção “Adicionar itens no DC”. Confirme a inclusão do item no carrinho.
+
+![Tela 16](Imagens/tela16.png)
+
+**Passo 18:** Para prosseguir com a configuração do item de sua licitação, clique em “Expandir”.
+
+![Tela 17](Imagens/tela17.png)
+
+**Passo 19:** Preencha os campos adicionais conforme necessário.
+
+![Tela 18](Imagens/tela18.png)
+
+---
+
+### Inclusão de anexos e artefatos vinculados
+
+**Passo 20:** Na aba **Anexos**, clique em “+Vincular” para vincular artefatos digitais da contratação ou documentos complementares.
+
+![Tela 19](Imagens/tela19.png)
+
+**Passo 21:** Selecione o tipo de artefato que deseja pesquisar.
+
+![Tela 20](Imagens/tela20.png)
+
+**Passo 22:** Selecione o documento e clique em “Vincular”.
+
+![Tela 21](Imagens/tela21.png)
+
+**Passo 23:** Para anexar outros documentos, clique em “+Anexar”.
+
+![Tela 22](Imagens/tela22.png)
+
+**Passo 24:** Selecione o tipo de anexo que deseja pesquisar.
+
+![Tela 23](Imagens/tela23.png)
+
+**Passo 25:** Selecione o arquivo e clique em “Anexar”.
+
+![Tela 24](Imagens/tela24.png)
+
+---
+
+### Inclusão de responsáveis pela contratação
+
+**Passo 26:** Para adicionar informações dos responsáveis pela contratação, clique em “+Adicionar” na aba **Responsáveis**.
+
+![Tela 25](Imagens/tela25.png)
+
+**Passo 27:** Insira o CPF e o e-mail do responsável, selecione seu **Cargo/Função** e clique em “Adicionar”.
+
+![Tela 26](Imagens/tela26.png)
+
+!!! warning "Atenção"
+    **Atenção:** Entre os responsáveis é obrigatório relacionar o servidor que realizará a publicação na Imprensa Nacional. Essa pessoa deverá ser cadastrada para isso na Imprensa Nacional.
+
+!!! warning "Atenção"
+    **Atenção:** Devem ser inseridos, no mínimo, os responsáveis abaixo:
+
+    * Dois membros de comissão de contratação;
+    * Presidente da comissão.
+
+**Passo 28:** Depois de preencher essas informações, clique em “Concluir” para que a contratação seja encaminhada para publicação.
+
+![Tela 27](Imagens/tela27.png)
+
+**Passo 29:** Para visualizar a prévia da matéria do Diário Oficial da União, clique em “Visualizar prévia”.
+
+![Tela 28](Imagens/tela28.png)
+
+Verifique os dados apresentados.
+
+![Tela 29](Imagens/tela29.png)
+
+**Passo 30:** Para divulgar o certame, clique em “Divulgar a contratação” na página de **Resumo da Contratação**.
+
+![Tela 30](Imagens/tela30.png)
+
+A contratação será divulgada no Portal Nacional de Contratações Públicas (PNCP).
+
+![Tela 31](Imagens/tela31.png)
+
+Sua contratação poderá receber requerimentos de participação conforme as datas especificadas na aba **Dados básicos da contratação**.
+
+<br>
+
+# 3. AVISOS, IMPUGNAÇÕES E ESCLARECIMENTOS
+
+Após a divulgação da contratação, é possível registrar avisos, impugnações e pedidos de esclarecimentos diretamente pelo sistema.
+
+## Avisos
+
+**Passo 01:** Para publicar avisos sobre o evento de contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
+
+![Tela 32](Imagens/tela32.png)
+
+**Passo 02:** Selecione a opção “Incluir avisos, impugnações e esclarecimentos”.
+
+![Tela 33](Imagens/tela33.png)
+
+**Passo 03:** Na aba **Avisos**, clique em “Incluir Aviso”.
+
+![Tela 34](Imagens/tela34.png)
+
+**Passo 04:** Preencha o campo destacado na imagem abaixo e clique em **Confirmar**.
+
+![Tela 35](Imagens/tela35.png)
+
+!!! warning "Atenção"
+    **Atenção:** Avisos não podem ser excluídos.
+
+---
+
+## Impugnações
+
+**Passo 01:** Para publicar impugnações relativas ao evento de contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
+
+![Tela 32](Imagens/tela32.png)
+
+**Passo 02:** Selecione a opção “Incluir avisos, impugnações e esclarecimentos”.
+
+![Tela 33](Imagens/tela33.png)
+
+**Passo 03:** Na aba **Impugnações**, clique em “Incluir impugnação”.
+
+![Tela 36](Imagens/tela36.png)
+
+**Passo 04:** Preencha os campos destacados na imagem abaixo e clique em **Confirmar**.
+
+![Tela 37](Imagens/tela37.png)
+
+!!! warning "Atenção"
+    **Atenção:** Impugnações não podem ser excluídas.
+
+---
+
+## Esclarecimentos
+
+**Passo 01:** Para publicar pedidos de esclarecimentos sobre a contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
+
+![Tela 32](Imagens/tela32.png)
+
+**Passo 02:** Selecione a opção “Incluir avisos, impugnações e esclarecimentos”.
+
+![Tela 33](Imagens/tela33.png)
+
+**Passo 03:** Na aba **Esclarecimentos**, clique em “Incluir esclarecimento”.
+
+![Tela 38](Imagens/tela38.png)
+
+**Passo 04:** Preencha o campo destacado na imagem abaixo e clique em **Confirmar**.
+
+![Tela 39](Imagens/tela39.png)
+
+!!! warning "Atenção"
+    **Atenção:** Esclarecimentos não podem ser excluídos.
+
+<br>
+
+# 4. ANULAÇÃO E REVOGAÇÃO DE ITEM
+
+Nesta seção, você confere como realizar a anulação ou a revogação do item da contratação, bem como os procedimentos para cancelar essas ações quando necessário.
+
+## Anular item
+
+**Passo 01:** Para anular o item da contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
+
+![Tela 32](Imagens/tela32.png)
+
+**Passo 02:** Selecione a opção “Anular item”.
+
+![Tela 40](Imagens/tela40.png)
+
+**Passo 03:** Na tela de anular ou revogar itens, localize o item da contratação
+
+![Tela 41](Imagens/tela41.png)
+
+e clique no botão “Anular/revogar”.
+
+![Tela 42](Imagens/tela42.png)
+
+**Passo 04:** Escolha a opção “Anulação de item”.
+
+![Tela 43](Imagens/tela43.png)
+
+**Passo 05:** Preencha a justificativa e confirme a opção.
+
+![Tela 44](Imagens/tela44.png)
+
+O item será anulado.
+
+![Tela 45](Imagens/tela45.png)
+
+!!! warning "Atenção"
+    **Atenção:** Por ser uma contratação de único item, o procedimento de anulação do item resultará na anulação do processo de contratação.
+
+---
+
+## Cancelamento da anulação
+
+**Passo 01:** Para cancelar a anulação do item, localize a contratação na **Área de Trabalho do usuário Governo** e clique sobre “Cancelar anulação de item”.
+
+![Tela 46](Imagens/tela46.png)
+
+**Passo 02:** Na tela de anular ou revogar itens, localize o item da contratação
+
+![Tela 47](Imagens/tela47.png)
+
+e clique em “Cancelar anulação”.
+
+![Tela 48](Imagens/tela48.png)
+
+**Passo 03:** Preencha as informações destacadas na imagem abaixo e confirme.
+
+![Tela 49](Imagens/tela49.png)
+
+A anulação do item será cancelada.
+
+![Tela 50](Imagens/tela50.png)
+
+---
+
+## Revogar item
+
+**Passo 01:** Para revogar o item, localize a contratação na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
+
+![Tela 32](Imagens/tela32.png)
+
+**Passo 02:** Selecione a opção “Revogar item”.
+
+![Tela 40](Imagens/tela40.png)
+
+**Passo 03:** Na tela de anular ou revogar itens, localize o item da contratação
+
+![Tela 41](Imagens/tela41.png)
+
+e clique no botão “Anular/revogar”.
+
+![Tela 42](Imagens/tela42.png)
+
+**Passo 04:** Selecione a opção “Revogação de item”.
+
+![Tela 43](Imagens/tela43.png)
+
+**Passo 05:** Preencha a justificativa e confirme a opção.
+
+![Tela 52](Imagens/tela52.png)
+
+O item será revogado.
+
+![Tela 53](Imagens/tela53.png)
+
+!!! warning "Atenção"
+    **Atenção:** Por ser uma contratação de único item, o procedimento de revogação do item resultará na revogação do processo de contratação.
+
+---
+
+## Cancelamento de revogação
+
+**Passo 01:** Para cancelar a revogação do item, localize sua contratação na **Área de Trabalho do usuário Governo** e clique sobre “Cancelar revogação de item”.
+
+![Tela 54](Imagens/tela54.png)
+
+**Passo 02:** Na tela de anular ou revogar itens, localize o item da contratação
+
+![Tela 47](Imagens/tela47.png)
+
+e acione o botão “Cancelar revogação”.
+
+![Tela 55](Imagens/tela55.png)
+
+**Passo 03:** Preencha as informações destacadas na imagem abaixo e confirme.
+
+![Tela 56](Imagens/tela56.png)
+
+**Passo 04:** A revogação do item será cancelada.
+
+![Tela 57](Imagens/tela57.png)
+
+<br>
+
+# 5. SUSPENSÃO E REABERTURA DA CONTRATAÇÃO
+
+Nesta seção, você confere como suspender uma contratação divulgada e, posteriormente, cancelar a suspensão para agendar sua reabertura.
+
+## Suspender contratação
+
+**Passo 01:** Para suspender a contratação, localize sua contratação na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
+
+![Tela 32](Imagens/tela32.png)
+
+**Passo 02:** Selecione a opção “Suspender contratação”.
+
+![Tela 58](Imagens/tela58.png)
+
+**Passo 03:** Você será redirecionado para a página inicial do **Novo Divulgação de Compras**. Na contratação desejada, clique no menu lateral e selecione a opção “Suspender”.
+
+![Tela 59](Imagens/tela59.png)
+
+**Passo 04:** Preencha o campo de justificativa e confirme.
+
+![Tela 60](Imagens/tela60.png)
+
+A contratação foi suspensa.
+
+![Tela 61](Imagens/tela61.png)
+
+---
+
+## Cancelar suspensão e reabrir contratação
+
+**Passo 01:** Para cancelar a suspensão da contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre “Reabrir contratação”.
+
+![Tela 62](Imagens/tela62.png)
+
+**Passo 02:** Você será redirecionado para a página inicial do **Novo Divulgação de Compras**, onde há uma lista de contratações. Ao lado da contratação desejada, clique no menu lateral e selecione a opção “Cancelar suspensão”.
+
+![Tela 63](Imagens/tela63.png)
+
+**Passo 03:** Preencha as novas datas do evento de contratação, a justificativa para reabertura e confirme.
+
+![Tela 64](Imagens/tela64.png)
+
+A suspensão foi cancelada e a reabertura foi agendada.
+
+![Tela 65](Imagens/tela65.png)
+
+!!! note "Nota"
+    **Nota:** Este manual será expandido com o lançamento das Fases II e III.
+
+<br>
+
