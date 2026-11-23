@@ -31,7 +31,7 @@ Após a divulgação da contratação, é possível registrar avisos, impugnaç�
 ![Tela 35](Imagens/tela35.png)
 
 !!! warning "Atenção"
-    **Atenção:** Avisos não podem ser excluídos.
+   Avisos não podem ser excluídos.
 
 ---
 
@@ -54,7 +54,7 @@ Após a divulgação da contratação, é possível registrar avisos, impugnaç�
 ![Tela 37](Imagens/tela37.png)
 
 !!! warning "Atenção"
-    **Atenção:** Impugnações não podem ser excluídas.
+    Impugnações não podem ser excluídas.
 
 ---
 
@@ -77,7 +77,7 @@ Após a divulgação da contratação, é possível registrar avisos, impugnaç�
 ![Tela 39](Imagens/tela39.png)
 
 !!! warning "Atenção"
-    **Atenção:** Esclarecimentos não podem ser excluídos.
+    Esclarecimentos não podem ser excluídos.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
