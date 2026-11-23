@@ -32,18 +32,18 @@ O diálogo competitivo é uma modalidade de licitação em que a Administração
 
 Você pode acessar as etapas específicas que quer consultar ou ver o manual completo, com todas as seções. Para isso, selecione o que quer ler no menu ao lado ou abaixo. Você também pode baixar ou imprimir cada uma dessas páginas ou o manual completo.
 
-* **Primeira Etapa – Criar a contratação:**
+**Primeira Etapa – Criar a contratação:**
   * [1. Criar a contratação no Novo DC](01-criar-contratacao.md)
 
-* **Segunda Etapa – Divulgar a contratação:**
+**Segunda Etapa – Divulgar a contratação:**
   * [2. Preencher dados e divulgar a contratação](02-divulgar-contratacao.md)
 
-* **Outras ações na contratação:**
+**Outras ações na contratação:**
   * [3. Avisos, impugnações e esclarecimentos](03-avisos-impugnacoes-esclarecimentos.md)
   * [4. Anulação e revogação de item](04-anulacao-e-revogacao.md)
   * [5. Suspensão e reabertura da contratação](05-suspensao-e-reabertura.md)
 
-* **Página única:**
+**Página única:**
   * [Todo o material em uma tela](manual-completo.md)
 
 <div style="text-align: right; margin: 20px 0;">
@@ -51,3 +51,4 @@ Você pode acessar as etapas específicas que quer consultar ou ver o manual com
     🖨️ Imprimir esta página
   </button>
 </div>
+
