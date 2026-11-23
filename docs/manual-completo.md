@@ -85,12 +85,12 @@ Siga os passos abaixo caso precise iniciar um processo de contratação na modal
 
 ![Tela 06](Imagens/tela06.png)
 
-**Passo 7:** Na aba **Dados Básicos da Contratação**, preencha o número do processo e o número de controle interno da UASG. No **Tipo de contratação**, escolha a modalidade de licitação “Diálogo Competitivo – Fase de pré-seleção”.
+**Passo 7:** Na aba **Dados Básicos da Contratação**, preencha o número do processo e o número de controle interno da Uasg. No **Tipo de contratação**, escolha a modalidade de licitação “Diálogo Competitivo – Fase de pré-seleção”.
 
 ![Tela 07](Imagens/tela07.png)
 
 !!! warning "Atenção"
-    O número de controle interno da UASG permite que cada órgão controle seus processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é facultativo.
+    O número de controle interno da Uasg permite que cada órgão controle seus processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é facultativo.
 
 **Passo 8:** Para definir o **Fundamento legal da contratação**, clique no ícone de lápis.
 
