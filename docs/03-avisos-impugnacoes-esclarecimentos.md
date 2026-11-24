@@ -39,11 +39,11 @@ Após a divulgação da contratação, é possível registrar avisos, impugnaç�
 
 **Passo 01:** Para publicar impugnações relativas ao evento de contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
 
-![Tela 32](Imagens/tela32.png)
+![Tela 32](Imagens/tela32-1.png)
 
 **Passo 02:** Selecione a opção “Incluir avisos, impugnações e esclarecimentos”.
 
-![Tela 33](Imagens/tela33.png)
+![Tela 33](Imagens/tela33-1.png)
 
 **Passo 03:** Na aba **Impugnações**, clique em “Incluir impugnação”.
 
@@ -62,11 +62,11 @@ Após a divulgação da contratação, é possível registrar avisos, impugnaç�
 
 **Passo 01:** Para publicar pedidos de esclarecimentos sobre a contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
 
-![Tela 32](Imagens/tela32.png)
+![Tela 32](Imagens/tela32-2.png)
 
 **Passo 02:** Selecione a opção “Incluir avisos, impugnações e esclarecimentos”.
 
-![Tela 33](Imagens/tela33.png)
+![Tela 33](Imagens/tela33-2.png)
 
 **Passo 03:** Na aba **Esclarecimentos**, clique em “Incluir esclarecimento”.
 
