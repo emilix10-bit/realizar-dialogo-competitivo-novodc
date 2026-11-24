@@ -16,7 +16,7 @@ Nesta seção, você confere como realizar a anulação ou a revogação do item
 
 **Passo 01:** Para anular o item da contratação, localize-a na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
 
-![Tela 32](Imagens/tela32.png)
+![Tela 32](Imagens/tela32-3.png)
 
 **Passo 02:** Selecione a opção “Anular item”.
 
@@ -75,23 +75,23 @@ A anulação do item será cancelada.
 
 **Passo 01:** Para revogar o item, localize a contratação na **Área de Trabalho do usuário Governo** e clique sobre o número que a identifica.
 
-![Tela 32](Imagens/tela32.png)
+![Tela 32](Imagens/tela32-4.png)
 
 **Passo 02:** Selecione a opção “Revogar item”.
 
-![Tela 40](Imagens/tela40.png)
+![Tela 40](Imagens/tela40-1.png)
 
 **Passo 03:** Na tela de anular ou revogar itens, localize o item da contratação
 
-![Tela 41](Imagens/tela41.png)
+![Tela 41](Imagens/tela41-1.png)
 
 e clique no botão “Anular/revogar”.
 
-![Tela 42](Imagens/tela42.png)
+![Tela 42](Imagens/tela42-1.png)
 
 **Passo 04:** Selecione a opção “Revogação de item”.
 
-![Tela 43](Imagens/tela43.png)
+![Tela 43](Imagens/tela43-1.png)
 
 **Passo 05:** Preencha a justificativa e confirme a opção.
 
@@ -114,7 +114,7 @@ O item será revogado.
 
 **Passo 02:** Na tela de anular ou revogar itens, localize o item da contratação
 
-![Tela 47](Imagens/tela47.png)
+![Tela 47](Imagens/tela47-1.png)
 
 e acione o botão “Cancelar revogação”.
 
